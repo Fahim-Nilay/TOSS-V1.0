@@ -51,7 +51,7 @@ import { LogoutForm } from './DTO/logout.dto';
         mydto.Uname="toss";
         mydto.FirstName="System";
         mydto.LastName="Administrator";
-        mydto.Email="niloykantipaul.aiub@gmail.com";
+        mydto.Email="fahimnilay@gmail.com";
         mydto.Password="ADad<2020>";
         mydto.MobileNo="01787700037"; 
         mydto.ProfilePicture="default.png"; 
